@@ -129,3 +129,4 @@ sum(score)
 FROM table1
 GROUP BY COUNTRY;
 
+gjyfhjb m
