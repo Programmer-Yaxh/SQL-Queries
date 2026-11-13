@@ -128,3 +128,4 @@ SELECT country,
 sum(score)
 FROM table1
 GROUP BY COUNTRY;
+
