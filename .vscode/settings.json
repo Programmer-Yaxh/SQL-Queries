@@ -1,0 +1,14 @@
+
+{
+    "emeraldwalk.runonsave": {
+        "ignoreUnchangedFiles": true,
+        "message": "Uploading SQL changes to GitHub...",
+        "commands": [
+            {
+                "match": "\\.sql$",
+                "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -File \"${workspaceFolder}\\.git\\auto-push.ps1\"",
+                "autoShowOutputPanel": "error"
+            }
+        ]
+    }
+}
