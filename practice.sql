@@ -129,4 +129,4 @@ sum(score)
 FROM table1
 GROUP BY COUNTRY;
 
---H
+--He
