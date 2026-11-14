@@ -128,3 +128,4 @@ SELECT country,
 sum(score) as total_scr
 FROM table1
 GROUP BY COUNTRY;
+
