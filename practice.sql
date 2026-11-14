@@ -143,5 +143,5 @@ SELECT
     AVG(score) as avg_scr
 FROM table1
 WHERE score != 0
-GROUP BY 
+GROUP BY table1
 HAVING AVG(score)>430;
