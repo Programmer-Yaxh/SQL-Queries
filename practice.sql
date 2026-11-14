@@ -127,7 +127,7 @@ ORDER BY country ASC, score DESC;
 SELECT country,
 sum(score) as total_scr
 FROM table1
-GROUP BY COUNTRY;
+GROUP BY country;
 
 --Find the total score and total number of customers for ecah country
 SELECT country,
