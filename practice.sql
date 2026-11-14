@@ -141,4 +141,3 @@ SELECT
     id,
     country,
     AVG(score)
-    
