@@ -140,5 +140,5 @@ GROUP BY country;
 SELECT 
     id,
     country,
-    AVG(score) as avg
+    AVG(score) as avg_scr
 FROM table1;
