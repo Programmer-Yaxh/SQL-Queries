@@ -140,4 +140,4 @@ GROUP BY country;
 SELECT 
     id,
     country,
-    AV
+    AVG
