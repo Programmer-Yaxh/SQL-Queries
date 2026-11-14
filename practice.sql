@@ -132,5 +132,5 @@ GROUP BY COUNTRY;
 --Find the total score and total number of customers for ecah country
 SELECT country,
 SUM(score) as total
-count(name) as noofcustomer;
+count(name) as noofcustomer
 FROM table1
