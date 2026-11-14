@@ -139,7 +139,7 @@ GROUP BY country;
 --Having clause
 /*Find the avg score of each country
 considering only customers score not equal to zero
-and return only those countries wuth
+and return only those countries w
 SELECT 
     country,
     AVG(score) as avg_scr
