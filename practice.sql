@@ -131,3 +131,4 @@ GROUP BY COUNTRY;
 
 --Find the total score and total number of customers for ecah country
 SELECT country,
+sun
