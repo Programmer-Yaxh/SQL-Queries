@@ -129,4 +129,4 @@ sum(score) as total_scr
 FROM table1
 GROUP BY COUNTRY;
 
---Find the total score and total number 
+--Find the total score and total number of customer
