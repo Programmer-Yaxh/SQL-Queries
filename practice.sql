@@ -137,3 +137,4 @@ FROM table1
 GROUP BY country;
 
 --Having clause
+SELECT 
