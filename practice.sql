@@ -135,3 +135,5 @@ SELECT country,
     COUNT(id) as total_customer
 FROM table1
 GROUP BY country;
+
+--HA
