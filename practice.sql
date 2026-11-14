@@ -148,4 +148,4 @@ WHERE score != 0
 GROUP BY country
 HAVING AVG(score)>430;
 
---
+--Dis
