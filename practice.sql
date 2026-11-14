@@ -133,4 +133,4 @@ GROUP BY COUNTRY;
 SELECT country,
 SUM(score) as total
 count(name) as noofcustomer;
-FROM 
+FROM table1
