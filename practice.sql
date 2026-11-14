@@ -156,4 +156,5 @@ FROM table1;
 
 --TOP
 --Retrieve only 3 customers
-SELECT TOP e
+SELECT TOP 3
+fro,
