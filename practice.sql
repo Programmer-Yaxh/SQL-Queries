@@ -149,4 +149,4 @@ GROUP BY country
 HAVING AVG(score)>430;
 
 --Distinct
-
+--
