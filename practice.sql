@@ -141,4 +141,4 @@ SELECT
     id,
     country,
     AVG(score)
-FROM table1
+FROM table1;
