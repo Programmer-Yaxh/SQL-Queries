@@ -150,6 +150,6 @@ HAVING AVG(score)>430;
 
 --Distinct
 --Return unique list of all countries
-FROM DISTINCT
+SELECT DISTINCT
 country
 
