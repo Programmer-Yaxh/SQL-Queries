@@ -10,5 +10,11 @@
                 "autoShowOutputPanel": "error"
             }
         ]
-    }
+    },
+    
+    "[sql]": {
+    "editor.inlineSuggest.enabled": false
 }
+
+}
+
