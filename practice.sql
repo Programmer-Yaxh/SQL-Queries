@@ -143,4 +143,5 @@ SELECT
     AVG(score) as avg_scr
 FROM table1
 WHERE score != 0
+G
 HAVING AVG(score)>430;
