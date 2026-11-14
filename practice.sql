@@ -125,6 +125,6 @@ ORDER BY country ASC, score DESC;
 
 --Group by clause
 SELECT country,
-sum(score)
+sum(score) as 
 FROM table1
 GROUP BY COUNTRY;
