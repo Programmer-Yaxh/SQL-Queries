@@ -154,4 +154,3 @@ SELECT DISTINCT
 country
 FROM table1;
 
-
