@@ -138,7 +138,6 @@ GROUP BY country;
 
 --Having clause
 SELECT 
-    id,
     country,
     AVG(score) as avg_scr
 FROM table1
