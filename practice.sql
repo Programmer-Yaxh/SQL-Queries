@@ -154,6 +154,6 @@ SELECT DISTINCT
 country
 FROM table1;
 --TOP
---Retrieve only 3 customers
+Retrieve only 3 customers
 SELECT TOP 3 *
 FROM table1;
