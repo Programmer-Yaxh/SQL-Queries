@@ -136,4 +136,4 @@ SELECT country,
 FROM table1
 GROUP BY country;
 
---HAVING clause
+--Having clause
