@@ -155,4 +155,4 @@ country
 FROM table1;
 
 --TOP
---Ret
+--Retrieve
