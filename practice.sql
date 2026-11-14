@@ -143,5 +143,5 @@ SELECT
     AVG(score) as avg_scr
 FROM table1
 WHERE score != 0
-GROUP BY c
+GROUP BY country
 HAVING AVG(score)>430;
