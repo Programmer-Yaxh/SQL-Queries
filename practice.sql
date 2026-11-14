@@ -141,4 +141,4 @@ SELECT
     id,
     country,
     AVG(score) as avg_scr
-FROM table1;
+FROM table1
