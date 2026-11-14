@@ -143,3 +143,4 @@ SELECT
     AVG(score) as avg_scr
 FROM table1
 WHERE score != 0;
+
