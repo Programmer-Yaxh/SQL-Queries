@@ -137,7 +137,7 @@ FROM table1
 GROUP BY country;
 
 --Having clause
-/*F
+/*Find the a
 SELECT 
     country,
     AVG(score) as avg_scr
