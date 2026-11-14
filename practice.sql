@@ -139,4 +139,5 @@ GROUP BY country;
 --Having clause
 SELECT 
     id,
-    country
+    country,
+    
