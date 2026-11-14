@@ -155,4 +155,4 @@ country
 FROM table1;
 
 --TOP
---Retrieve only 3 co
+--Retrieve only 3 customer
