@@ -129,4 +129,4 @@ sum(score) as total_scr
 FROM table1
 GROUP BY COUNTRY;
 
---Find the total s
+--Find the total score and total num
